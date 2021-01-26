@@ -1,0 +1,58 @@
+
+
+.card{
+  width: 30%;
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 10px;
+   margin-bottom: 10px;
+}
+
+.card img{
+   width: 100%;
+
+}
+
+.navigation-bar{
+    background-color: aqua;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navigation-bar img{
+    width: 60px;
+
+}
+
+.navigation-bar ul li{
+    display: inline-block;
+}
+
+.navigation-bar ul li a{
+    color: #000000;
+    font-size: 18px;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+.item{
+    width: 300px;
+   background-color: blueviolet;
+   margin: 100px auto;
+   border-radius: 10px;
+   box-shadow: 0 0 10px #888;
+   padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
